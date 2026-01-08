@@ -1,5 +1,6 @@
-def predict():
-    return "Prediction result"
+def baseline_model():
+    return 90
 
-if __name__ == "__main__":
-    print(predict())
+def improved_model():
+    return 100
+
